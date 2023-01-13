@@ -1,7 +1,7 @@
 # okdap
 Open Kathryn Detection Algorithm Platform 
 
-Download "data.json" and "models.zip" from the latest release and put them in the same folder
+Download "data.json" and "models.zip" from the `dist` folder of this git repo and put them in this folder.
 
 ## installation
 
